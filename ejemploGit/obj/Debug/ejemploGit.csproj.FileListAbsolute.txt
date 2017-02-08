@@ -1,0 +1,9 @@
+C:\Users\aaron\Desktop\AARON\CURSOS\DAM\Nueva carpeta\Entorno de desarrollo\2ª evaluacion\ejemploGit\ejemploGit\ejemploGit\bin\Debug\ejemploGit.exe.config
+C:\Users\aaron\Desktop\AARON\CURSOS\DAM\Nueva carpeta\Entorno de desarrollo\2ª evaluacion\ejemploGit\ejemploGit\ejemploGit\bin\Debug\ejemploGit.exe
+C:\Users\aaron\Desktop\AARON\CURSOS\DAM\Nueva carpeta\Entorno de desarrollo\2ª evaluacion\ejemploGit\ejemploGit\ejemploGit\bin\Debug\ejemploGit.pdb
+C:\Users\aaron\Desktop\AARON\CURSOS\DAM\Nueva carpeta\Entorno de desarrollo\2ª evaluacion\ejemploGit\ejemploGit\ejemploGit\obj\Debug\ejemploGit.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\AARON\CURSOS\DAM\Nueva carpeta\Entorno de desarrollo\2ª evaluacion\ejemploGit\ejemploGit\ejemploGit\obj\Debug\ejemploGit.Form1.resources
+C:\Users\aaron\Desktop\AARON\CURSOS\DAM\Nueva carpeta\Entorno de desarrollo\2ª evaluacion\ejemploGit\ejemploGit\ejemploGit\obj\Debug\ejemploGit.Properties.Resources.resources
+C:\Users\aaron\Desktop\AARON\CURSOS\DAM\Nueva carpeta\Entorno de desarrollo\2ª evaluacion\ejemploGit\ejemploGit\ejemploGit\obj\Debug\ejemploGit.csproj.GenerateResource.Cache
+C:\Users\aaron\Desktop\AARON\CURSOS\DAM\Nueva carpeta\Entorno de desarrollo\2ª evaluacion\ejemploGit\ejemploGit\ejemploGit\obj\Debug\ejemploGit.exe
+C:\Users\aaron\Desktop\AARON\CURSOS\DAM\Nueva carpeta\Entorno de desarrollo\2ª evaluacion\ejemploGit\ejemploGit\ejemploGit\obj\Debug\ejemploGit.pdb
