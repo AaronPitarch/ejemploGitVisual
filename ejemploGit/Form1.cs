@@ -19,12 +19,12 @@ namespace ejemploGit
        
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "" + "aaron";
+            label1.Text =  "aaron";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            label1.Text = "este punto es para borrar";
         }
     }
 }
